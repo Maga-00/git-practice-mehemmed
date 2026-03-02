@@ -1,1 +1,3 @@
-# git-practice-mehemmed
+Proqramlaşdırçanın əsasları
+Məhəmməd
+Github
