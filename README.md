@@ -1,3 +1,1 @@
-Proqramlaşdırçanın əsasları
-Məhəmməd
-Github
+Proqramlaşdırmanın əsasları-Məhəmməd
