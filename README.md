@@ -1,1 +1,1 @@
-# git-practice-mehemmed
+Proqramlaşdırmanın əsasları-Məhəmməd
