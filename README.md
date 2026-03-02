@@ -1,1 +1,3 @@
-Proqramlaşdırmanın əsasları-Məhəmməd
+Proqramlaşdırma
+Mehemmed
+Əsaslar
